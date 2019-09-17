@@ -1,0 +1,3 @@
+此项目是将SSMtemplate_DaoXml项目拆分为父子工程
+
+SSMtemplate_DaoXml项目:https://github.com/1079178102/SSMtemplate_DaoXml.git
